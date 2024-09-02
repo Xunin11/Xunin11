@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Xunin11
-- 👀 I’m interested in Mobile Development ...
-- 🌱 I’m currently learning Kotlin/Android ...
-- 📫 How to reach me ...
+Hey there! 👋
+I'm Junior, a Android/Mobile Developer who loves coding, learning new things, and building cool projects.
 
-<!---
-Xunin11/Xunin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 What I'm Working On
+Looking to do a new project.
+
+🌱 What I'm Learning
+Java.
+
+📫 How to Reach Me
+amao_jr@hotmail.com
+linkedin.com/in/antonio-junior33
