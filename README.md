@@ -16,3 +16,4 @@ I'm Antonio Junior, a Mobile Developer who loves coding, learning new things, an
  <a href="https://www.linkedin.com/in/antonio-junior33/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
